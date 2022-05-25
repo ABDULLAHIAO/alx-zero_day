@@ -1,1 +1,1 @@
-Second GIT assignment in ALX School
+Second GIT assignment in ALX Internship School
